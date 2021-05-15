@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 79f980568206e7d49af7b50ad5fa7650
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: avocado
+  fontNames:
+  - avocado
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 08fd51903a0640b458df9a97ea870f97, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
